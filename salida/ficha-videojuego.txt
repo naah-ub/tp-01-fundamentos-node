@@ -1,0 +1,11 @@
+FICHA DE VIDEOJUEGO
+=================
+Estudiante: Bazan Andres
+Node.js: v22.20.0
+Plataforma del sistema: win32
+
+Título: Helldivers 2
+Estudio: Arrowhead Game Studios
+Año: 2024
+Plataformas: PC, PS5, XBOX
+¿Es multijugador?: Si
